@@ -16,6 +16,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-{felipealvesxx509@gmail.com}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{felipealvesxx509@gmail.com})](mailto:{felipealvesxx509@gmail.com})
 [![Threads: Felipe](https://img.shields.io/badge/-felipe-blue?style=flat-square&logo=threads&logoColor=white&link=https://https://www.threads.net/@felipealves_life)](https://https://www.threads.net/@felipealves_life)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipecod-coder)](https://github.com/felipecod-coder/github-readme-stats)
 
 ![felipecod-coder GitHub stats](https://github-readme-stats.vercel.app/api?username=felipecod-coder&show_icons=true&theme=radical)
 
