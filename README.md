@@ -2,15 +2,16 @@
   <img src="https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif" alt="Software Developer">
 </div>
 
-<h1 align="center">👋 Olá, eu sou Felipe Alves</h1>
+<h1 align="center"> 👋Olá, eu sou Felipe Alves</h1>
 
 <p align="center">
   💻 Estudante de Programação | 🌍 Apaixonado por Tecnologia
 </p><br><br>
+
 <p <align="center">
 Sobre mim
-
-✨ Sou um(a) desenvolvedor(a) apaixonado(a) por desafios criativos e soluções inovadoras. Meu objetivo é levar a programação a um novo patamar, misturando arte e código para criar experiências únicas. ✨</p><br><br>
+  
+✨ Sou um desenvolvedor apaixonado por desafios criativos e soluções inovadoras. Meu objetivo é levar a programação a um novo patamar, misturando arte e código para criar experiências únicas. ✨</p><br><br>
 
 ## 🚀 Linguagens de Programação
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript)](https://skillicons.dev)<br><br>
