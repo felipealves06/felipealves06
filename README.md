@@ -1,8 +1,7 @@
 👋 Olá, sou @felipecod-coder
 👀 Estou interessado em Front-end Developer
 🌱 Atualmente estou aprendendo Html, Css e Java Script
-💞️ Estou procurando colaborar em Projetos de sites responsivos e web design.
-📫 Como entrar em contato comigo 11988177347
+💞️ Estou procurando conhecimento na área para colaborar em projetos.
 😄 Pronomes: he
 ⚡ Curiosidade: Segundo Friedrich Nietzsche: "Aquilo que se faz por amor está sempre além do bem e do mal."
 
