@@ -1,9 +1,9 @@
-👋 Olá, sou @felipecod-coder
-👀 Estou interessado em Front-end Developer
-🌱 Atualmente estou aprendendo Html, Css e Java Script
-💞️ Estou procurando conhecimento na área para colaborar em projetos.
-😄 Pronomes: he
-⚡ Curiosidade: Segundo Friedrich Nietzsche: "Aquilo que se faz por amor está sempre além do bem e do mal."
+👋 Hello, I am  @felipecod-coder
+👀 I'm interested in Front-end.
+🌱 I am currently learning Html, Css e Java Script
+💞️ I am looking for knowledge in the area to collaborate on projects.
+😄 Pronouns: he
+⚡ Curiosity: According to Friedrich Nietzsche: "What is done for love is always beyond good and evil."
 
 
 <!---
