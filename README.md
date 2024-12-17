@@ -1,5 +1,5 @@
 👋 Hello, I am  @felipecod-coder
-👀 I'm interested in Front-end.
+👀 I'm interested in Front-end, deliver solutions and innovation to the market.
 🌱 I am currently learning Html, Css e Java Script
 💞️ I am looking for knowledge in the area to collaborate on projects.
 😄 Pronouns: he
