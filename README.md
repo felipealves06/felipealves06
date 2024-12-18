@@ -16,7 +16,7 @@
 
 - Frameworks e Bibliotecas: 
 
-    [![My Skills](https://skillicons.dev/icons?i=react,angular,vue,)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=react,angular,vue)](https://skillicons.dev)
 - Dados: 
 
     [![My Skills](https://skillicons.dev/icons?i=mysql,mongo)](https://skillicons.dev)
