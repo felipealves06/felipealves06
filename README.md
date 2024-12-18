@@ -12,27 +12,20 @@
 
 - Linguagens de Programação:
 
-    [![My Skills](https://skillicons.dev/icons?i=javascript,css,typescript)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript)](https://skillicons.dev)
 
 - Frameworks e Bibliotecas: 
 
-    [![My Skills](https://skillicons.dev/icons?i=react,)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=react,next,vue,mysql)](https://skillicons.dev)
 - Dados: 
 
     [![My Skills](https://skillicons.dev/icons?i=mysql,mongo)](https://skillicons.dev)
 - Ferramentas e Tecnologias: 
 
-    [![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,eclipse)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio)](https://skillicons.dev)
 - Desenvolvimento Web:
 
-    [![My Skills](https://skillicons.dev/icons?i=php,html,css)](https://skillicons.dev) 
-## Projetos Criativos
-
-🎨 Aqui estão alguns dos meus projetos mais criativos e inovadores:
-
-1. [Projeto 1](https://github.com/[seu-usuario]/projeto1): Uma descrição emocionante do projeto e como ele mudou o mundo.
-2. [Projeto 2](https://github.com/[seu-usuario]/projeto2): Uma aventura fascinante com código e arte.
-3. [Projeto 3](https://github.com/[seu-usuario]/projeto3): Uma experiência interativa que desafia as leis da física.
+    [![My Skills](https://skillicons.dev/icons?i=html,css,javascript)](https://skillicons.dev) 
 
 ## Vamos Criar Algo Incrível! 💫
 
