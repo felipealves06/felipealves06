@@ -10,7 +10,7 @@
 
 ✨ Sou um desenvolvedor apaixonado por desafios criativos e soluções inovadoras. Meu objetivo é levar a programação a um novo patamar, misturando arte e código para criar experiências únicas. ✨
 
-- Linguagens de Programação:
+- 🧑‍💻Linguagens de Programação:
 
     [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript)](https://skillicons.dev)
 
