@@ -32,7 +32,7 @@
 💬 Quer colaborar em um projeto criativo e inovador? Estou sempre aberto a novas ideias e parcerias. Entre em contato comigo para discutirmos como podemos criar algo verdadeiramente extraordinário juntos. ✉️
 
 ## Vamos Conectar!
-
+[![Gmail Badge](https://img.shields.io/badge/-{felipealvesxx509@gmail.com}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{felipealvesxx509@gmail.com})](mailto:{felipealvesxx509@gmail.com})
 
 ![Felipe Alves GitHub stats](https://github-readme-stats.vercel.app/api?username=felipecod-coder\&rank_icon=percentile)
 
