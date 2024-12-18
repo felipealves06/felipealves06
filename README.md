@@ -14,16 +14,16 @@
 
     [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript)](https://skillicons.dev)
 
-- Frameworks e Bibliotecas: 
+- 🧰Frameworks e Bibliotecas: 
 
     [![My Skills](https://skillicons.dev/icons?i=react,angular,vue)](https://skillicons.dev)
-- Dados: 
+- 🗄️Dados: 
 
     [![My Skills](https://skillicons.dev/icons?i=mysql,mongo)](https://skillicons.dev)
-- Ferramentas e Tecnologias: 
+- ⚙️Ferramentas e Tecnologias: 
 
     [![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio)](https://skillicons.dev)
-- Desenvolvimento Web:
+- 💻Desenvolvimento Web:
 
     [![My Skills](https://skillicons.dev/icons?i=html,css,javascript)](https://skillicons.dev) 
 
@@ -31,7 +31,7 @@
 
 💬 Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 😊
 
-## Vamos Conectar!
+## 📭Vamos Conectar!
 [![Gmail: Felipe](https://img.shields.io/badge/-{felipealvesxx509@gmail.com}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{felipealvesxx509@gmail.com})](mailto:{felipealvesxx509@gmail.com})
 [![Instagram: Felipe](https://img.shields.io/badge/-{felipealves}-purple?style=flat-square&logo=Instagram&logoColor=white&link={https://www.instagram.com/felipealves_life/profilecard/?igsh=bGI0MXY0c2NpMGx5)](https://www.instagram.com/felipealves_life/profilecard/?igsh=bGI0MXY0c2NpMGx5})
 
