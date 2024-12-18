@@ -12,11 +12,11 @@
 
 - Linguagens de Programação:
 
-    [![My Skills](https://skillicons.dev/icons?i=java,javascript,python)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=javascript,css,typescript)](https://skillicons.dev)
 
 - Frameworks e Bibliotecas: 
 
-    [![My Skills](https://skillicons.dev/icons?i=spring,react,django)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=react,)](https://skillicons.dev)
 - Dados: 
 
     [![My Skills](https://skillicons.dev/icons?i=mysql,mongo)](https://skillicons.dev)
