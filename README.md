@@ -10,13 +10,10 @@
 
 ✨ Sou um desenvolvedor apaixonado por desafios criativos e soluções inovadoras. Meu objetivo é levar a programação a um novo patamar, misturando arte e código para criar experiências únicas. ✨
 
-## Habilidades Tecnológicas
-
-💻 Aqui estão algumas das tecnologias que eu domino:
-
--  Linguagens de Programação: 
+- Linguagens de Programação:
 
     [![My Skills](https://skillicons.dev/icons?i=java,javascript,python)](https://skillicons.dev)
+
 - Frameworks e Bibliotecas: 
 
     [![My Skills](https://skillicons.dev/icons?i=spring,react,django)](https://skillicons.dev)
