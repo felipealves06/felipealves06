@@ -8,7 +8,7 @@
 
 ## Sobre mim
 
-✨ Meu objetivo é levar a programação a um novo patamar, misturando arte e código para criar experiências únicas. ✨
+✨Meu objetivo é levar a programação a um novo patamar, misturando arte e código para criar experiências únicas.✨
 
 - 🧑‍💻Linguagens de Programação:
 
@@ -30,7 +30,7 @@
 
 ## Vamos Criar Algo Incrível! 💫
 
-💬 Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 😊
+💬 Fique à vontade para entrar em contato comigo para discutir colaborações, projetos ou qualquer outro assunto relacionado à programação.😊
 
 ## 📭Vamos Conectar!
 [![Gmail: Felipe](https://img.shields.io/badge/-{felipealvesxx509@gmail.com}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{felipealvesxx509@gmail.com})](mailto:{felipealvesxx509@gmail.com})
