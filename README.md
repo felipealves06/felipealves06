@@ -35,8 +35,6 @@
 ## 📭Vamos Conectar!
 [![Gmail: Felipe](https://img.shields.io/badge/-{felipealvesxx509@gmail.com}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{felipealvesxx509@gmail.com})](mailto:{felipealvesxx509@gmail.com})
 [![Instagram: Felipe](https://img.shields.io/badge/-{felipealves}-purple?style=flat-square&logo=Instagram&logoColor=white&link={https://www.instagram.com/felipealvesdev/profilecard/?igsh=bGI0MXY0c2NpMGx5)](https://www.instagram.com/felipealves_life/profilecard/?igsh=bGI0MXY0c2NpMGx5})
-[! LinkedIn :
-Felipe](https://img.shields.io/badge/-{felipealves}-purple?style=flat-square&logo=LinkedIn&logoColor=white&link={https://www.linkedin.com/felipealvesdev/profilecard/?igsh=bGI0MXY0c2NpMGx5)](https://www.linkedin.com/felipealves_life/profilecard/?igsh=bGI0MXY0c2NpMGx5})
 
 ![Felipe Alves GitHub stats](https://github-readme-stats.vercel.app/api?username=felipealves06\&rank_icon=percentile)
 
