@@ -1,40 +1,42 @@
-<div align="center">
-  <img src="https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif" alt="Software Developer">
-</div>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-# 🚀 Olá, eu sou Felipe Alves
+<p align="left"> 
+  Olá, sou o Felipe Alves, tenho conhecimento nas área de  designer gráfico com desenvolvimento de materiais gráficos, administração e computação. <strong>HTML, CSS, JavaScript e Node.js</strong>.<br>
+  Atualmente estudo programação como autodidata, sou apaixonado por tecnologia e pretendo chegar cursar análise e desenvolvimento de sistemas.
+</p>
+
+<p align="left">
+  🦄 Linguagens:
+  [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript)](https://skillicons.dev)
+</p>
+
+<p align="left">
+  💼 Ferramentas:
+  [![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio)](https://skillicons.dev)
+</p>
   
-💻 Estudante de Programação | 🌍 Apaixonado por Tecnologia<br><br>
-
-## Sobre mim
-
-✨Meu objetivo é levar a programação a um novo patamar, misturando arte e código para criar experiências únicas.✨
-
-- 🧑‍💻Linguagens de Programação:
-
-    [![My Skills](https://skillicons.dev/icons?i=html,css,javascript)](https://skillicons.dev)
-
-- 🧰Frameworks e Bibliotecas: 
-
-    [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
-- 🗄️Dados: 
-
+ <p align="left">
+  🗄️Dados: 
     [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+<p>
 
-- ⚙️Ferramentas e Tecnologias: 
+<p align="left">
+  🧰Frameworks e Bibliotecas: 
+  [![My Skills](https://skillicons.dev/icons?i=react,node.js)](https://skillicons.dev)
+</p>
 
-    [![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio)](https://skillicons.dev)
-- 💻Desenvolvimento Web:
+<p align="left">
+  💌 Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação: ⤵️
+</p>
 
-    [![My Skills](https://skillicons.dev/icons?i=html,css,javascript)](https://skillicons.dev) 
-
-## Vamos Criar Algo Incrível! 💫
-
-💬 Fique à vontade para entrar em contato comigo para discutir colaborações, projetos ou qualquer outro assunto relacionado à programação.😊
-
-## 📭Vamos Conectar!
-[![Gmail: Felipe](https://img.shields.io/badge/-{felipealvesxx509@gmail.com}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{felipealvesxx509@gmail.com})](mailto:{felipealvesxx509@gmail.com})
-[![Instagram: Felipe](https://img.shields.io/badge/-{felipealves}-purple?style=flat-square&logo=Instagram&logoColor=white&link={https://www.instagram.com/felipealvesdev/profilecard/?igsh=bGI0MXY0c2NpMGx5)](https://www.instagram.com/felipealves_life/profilecard/?igsh=bGI0MXY0c2NpMGx5})
+<p align="left">
+  <a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=felipealvesxx509@gmail.com" alt="Gmail"/></a>
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-alves-393ba733a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" alt="LinkedIn"/></a>
+  <a href="#" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=@fellipealvesofc" alt="Instagram"/></a>
+</p>
 
 ![Felipe Alves GitHub stats](https://github-readme-stats.vercel.app/api?username=felipealves06\&rank_icon=percentile)
 
