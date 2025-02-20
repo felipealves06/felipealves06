@@ -3,7 +3,7 @@
 <p align="left"> 
 Olá, sou o Felipe Alves, tenho conhecimento nas áreas de designer com desenvolvimento de materiais gráficos e logomarcas, administração financeira, mercado financeiro e computação.
   
-Atualmente estudo programação como autodidata, sou apaixonado por tecnologia e pretendo cursar análise e desenvolvimento de sistemas.
+Atualmente estudo desenvolvimento web, focado no frontend pretendo também agregar o backend.
 </p>
 
 <p align="left">
