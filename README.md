@@ -6,11 +6,11 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: **Html, Css e Javascript**
+  🦄 Linguagens: Html, Css e Javascript
 </p>
 
 <p align="left">
-  💼 Ferramentas: **Git, GitHub,Visualstudio**
+  💼 Ferramentas: Git, GitHub,Visualstudio
 </p>
   
  <p align="left">
