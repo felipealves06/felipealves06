@@ -19,11 +19,11 @@ Atualmente estudo programação como autodidata, sou apaixonado por tecnologia e
 </p>
 
 <p align="left">
-  <a href="gmail" title="Gmail">
+  <a href="felipealvesxx509@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=felipealvesxx509@gmail.com" alt="Gmail"/></a>
-  <a href="Linkdin" title="LinkedIn">
+  <a href="https://www.linkdin.com/in/felipe-alves" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-alves-393ba733a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" alt="LinkedIn"/></a>
-  <a href="Instagram" title="Instagram">
+  <a href="instagram.com/fellipealvesofc" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=@fellipealvesofc" alt="Instagram"/></a>
 </p>
 
