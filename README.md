@@ -3,7 +3,7 @@
 <p align="left"> 
 Olá, sou o Felipe Alves, tenho conhecimento nas áreas de designer com desenvolvimento de materiais gráficos e logomarcas, administração financeira, mercado financeiro e computação.
   
-Atualmente estudo desenvolvimento web, pretendo me especializar como full stack.
+Atualmente estudo desenvolvimento web, pretendo me especializar na área de análise e desenvolvimento de sistemas.
 </p>
 
 <p align="left">
