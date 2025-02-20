@@ -20,7 +20,6 @@ Atualmente estudo programação como autodidata, sou apaixonado por tecnologia e
 
 [![Gmail: Felipe](https://img.shields.io/badge/-{Gmail}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{felipealvesxx509@gmail.com})](mailto:{felipealvesxx509@gmail.com})
 [![Instagram: Felipe](https://img.shields.io/badge/-{Instagram}-purple?style=flat-square&logo=Instagram&logoColor=white&link={https://www.instagram.com/felipealves_life/profilecard/?igsh=bGI0MXY0c2NpMGx5)](https://www.instagram.com/fellipealvesofc/profilecard/?igsh=bGI0MXY0c2NpMGx5})
-src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-alves" alt="LinkedIn"/></a>
 <!---
 felipealves06/felipealves06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
