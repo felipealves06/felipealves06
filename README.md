@@ -10,16 +10,8 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: Git, GitHub,Visualstudio
+  💼 Ferramentas: Git, GitHub,Visualstudio, React, Node.js e Mysql
 </p>
-  
- <p align="left">
-  🗄️Dados: Mysql
-<p>
-
-<p align="left">
-  🧰Frameworks e Bibliotecas: **React e Node.js**
- </p>
 
 <p align="left">
   💌 Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação: ⤵️
