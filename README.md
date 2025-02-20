@@ -27,6 +27,6 @@
 </p>
 
 <!---
-felipecod-coder/felipecod-coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+felipealves06/felipealves06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
