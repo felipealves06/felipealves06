@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Olá, sou o Felipe Alves, tenho conhecimento nas área de  designer gráfico com desenvolvimento de materiais gráficos, administração e computação.
-  Atualmente estudo programação como autodidata, sou apaixonado por tecnologia e pretendo chegar cursar análise e desenvolvimento de sistemas.
+  Atualmente estudo programação como autodidata, sou apaixonado por tecnologia e pretendo cursar análise e desenvolvimento de sistemas.
 </p>
 
 <p align="left">
