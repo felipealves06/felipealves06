@@ -18,7 +18,7 @@ Atualmente estudo desenvolvimento web, pretendo me especializar na área de aná
   💌 Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação: ⤵️
 </p>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/fellipealvesofc)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fellipealvesofc/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-alves-393ba733a/)
 ![Felipe Alves GitHub stats](https://github-readme-stats.vercel.app/api?username=felipealves06\&rank_icon=percentile)
 
