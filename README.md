@@ -7,11 +7,11 @@ Atualmente estudo programação como autodidata, sou apaixonado por tecnologia e
 </p>
 
 <p align="left">
-  🦄 Linguagens: Html, Css e Javascript
+  🦄 Linguagens: Html, Css e Javascript.
 </p>
 
 <p align="left">
-  💼 Ferramentas: Git, GitHub,Visualstudio, React, Node.js e Mysql
+  💼 Ferramentas: Git, GitHub,Visualstudio, React, Node.js e Mysql.
 </p>
 
 <p align="left">
