@@ -26,9 +26,6 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=@fellipealvesofc" alt="Instagram"/></a>
 </p>
 
-![Felipe Alves GitHub stats](https://github-readme-stats.vercel.app/api?username=felipealves06\&rank_icon=percentile)
-
-
 <!---
 felipecod-coder/felipecod-coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
