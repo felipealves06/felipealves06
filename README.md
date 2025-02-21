@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-Olá, sou o Felipe Alves, tenho conhecimento nas áreas de designer com desenvolvimento de materiais gráficos e logomarcas, administração, mercado financeiro e computação.
+Olá, sou o Felipe Alves, tenho conhecimento em desenvolvimento de materiais gráficos e logomarcas, administração, mercado financeiro e computação.
   
 Atualmente estudo desenvolvimento web, pretendo me especializar na área de análise e desenvolvimento de sistemas.
 </p>
