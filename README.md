@@ -20,7 +20,10 @@ Atualmente estudo desenvolvimento web, pretendo me especializar na área de aná
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fellipealvesofc/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-alves-393ba733a/)
-![Felipe Alves GitHub stats](https://github-readme-stats.vercel.app/api?username=felipealves06\&rank_icon=percentile)
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=felipealves06&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=felipealves06&layout=compact&theme=dark)
 
 <!---
 felipealves06/felipealves06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
