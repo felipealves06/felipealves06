@@ -1,7 +1,10 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-Olá, sou o Felipe Alves, tenho experiência consolidada em rotinas financeiras e administrativas, combinada com visão criativa para soluções visuais. Domino ferramentas como Adobe Illustrator e Corel Draw para criação de identidades visuais e materiais gráficos.
+
+#Olá, sou o Felipe Alves.!👋🏽
+
+✨Tenho experiência consolidada em rotinas financeiras e administrativas, combinada com visão criativa para soluções visuais. Domino ferramentas como Adobe Illustrator e Corel Draw para criação de identidades visuais e materiais gráficos.
 
 Certificações em Empreendedorismo (SEBRAE), Gestão de Negócios, Marketing digital e Pacote Office. Atualmente imerso em programação front-end (HTML5, CSS3, JavaScript) com foco em UI/UX, buscando especialização através do curso de Análise e Desenvolvimento de Sistemas.
 
