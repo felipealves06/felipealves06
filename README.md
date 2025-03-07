@@ -2,7 +2,7 @@
 
 <p align="left"> 
 
-#Olá, sou o Felipe Alves.!👋🏽
+# Olá, sou o Felipe Alves!👋🏽
 
 ✨Tenho experiência consolidada em rotinas financeiras e administrativas, combinada com visão criativa para soluções visuais. Domino ferramentas como Adobe Illustrator e Corel Draw para criação de identidades visuais e materiais gráficos.
 
