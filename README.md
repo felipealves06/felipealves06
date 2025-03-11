@@ -21,12 +21,14 @@ Certificações em Empreendedorismo (SEBRAE), Gestão de Negócios, Marketing di
 
 <p align="left">
   💼 Ferramentas:
-<img src="https://cdn.simpleicons.org/git/F05032" width="32" height="32">
-<img src="https://cdn.simpleicons.org/github/181717" width="32" height="32">
-<img src="https://cdn.simpleicons.org/visualstudio/5C2D91" width="32" height="32">
-<img src="https://cdn.simpleicons.org/react/61DAFB" width="32" height="32">
-<img src="https://cdn.simpleicons.org/nodedotjs/339933" width="32" height="32">
-<img src="https://cdn.simpleicons.org/mysql/4479A1" width="32" height="32">
+
+
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)](https://visualstudio.microsoft.com/)
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
 </p>
 
