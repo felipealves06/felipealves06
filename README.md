@@ -20,7 +20,7 @@ Certificações em Empreendedorismo (SEBRAE), Gestão de Negócios, Marketing di
 </p>
 
 <p align="left">
-  💼 Ferramentas:
+  💼 FERRAMENTAS:
 
 
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
