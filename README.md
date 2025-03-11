@@ -21,17 +21,11 @@ Certificações em Empreendedorismo (SEBRAE), Gestão de Negócios, Marketing di
 
 <p align="left">
   💼 Ferramentas:
- ! 
 <img src="https://cdn.simpleicons.org/git/F05032" width="32" height="32">
-!
 <img src="https://cdn.simpleicons.org/github/181717" width="32" height="32">
-!
 <img src="https://cdn.simpleicons.org/visualstudio/5C2D91" width="32" height="32">
-!
 <img src="https://cdn.simpleicons.org/react/61DAFB" width="32" height="32">
-!
 <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="32" height="32">
-!
 <img src="https://cdn.simpleicons.org/mysql/4479A1" width="32" height="32">
 
 </p>
