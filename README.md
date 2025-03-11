@@ -4,14 +4,14 @@
 
 # Olá, sou o Felipe Alves!👋🏽
 
-✨Tenho experiência consolidada em rotinas financeiras e administrativas, combinada com visão criativa para soluções visuais. Domino ferramentas como **Adobe Illustrator** e *"Corel Draw** para criação de identidades visuais e materiais gráficos.
+✨Tenho experiência consolidada em rotinas financeiras e administrativas, combinada com visão criativa para soluções visuais. Domino ferramentas como **Adobe Illustrator** e **Corel Draw** para criação de identidades visuais e materiais gráficos.
 
 **Certificações** em Empreendedorismo (SEBRAE), Gestão de Negócios, Marketing digital e Pacote Office. Atualmente imerso em programação front-end (HTML5, CSS3, JavaScript) com foco em UI/UX, buscando especialização através do curso de Análise e Desenvolvimento de Sistemas.
 
 </p>
 
 <p align="left">
- 🦄 LINGUAGENS:
+ 🦄 **LINGUAGENS** :
 
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -20,7 +20,7 @@
 </p>
 
 <p align="left">
-  💼 FERRAMENTAS:
+  💼 **FERRAMENTAS** :
 
 
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
