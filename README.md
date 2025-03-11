@@ -33,7 +33,7 @@ Tenho experiência consolidada em rotinas financeiras e administrativas, combina
 
   💻 **PROJETOS** :
 
-• [![Loginflow](https://github.com/felipealves06/loginflow)
+• [Loginflow](https://github.com/felipealves06/loginflow)
 
 </p>
 
