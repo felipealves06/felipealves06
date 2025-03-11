@@ -4,7 +4,7 @@
 
 # Olá, sou o Felipe Alves!👋🏽
 
-✨Tenho experiência consolidada em rotinas financeiras e administrativas, combinada com visão criativa para soluções visuais. Domino ferramentas como **Adobe Illustrator** e **Corel Draw** para criação de identidades visuais e materiais gráficos.
+Tenho experiência consolidada em rotinas financeiras e administrativas, combinada com visão criativa para soluções visuais. Domino ferramentas como **Adobe Illustrator** e **Corel Draw** para criação de identidades visuais e materiais gráficos.
 
 **Certificações** em Empreendedorismo (SEBRAE), Gestão de Negócios, Marketing digital e Pacote Office. Atualmente imerso em programação front-end (HTML5, CSS3, JavaScript) com foco em UI/UX, buscando especialização através do curso de Análise e Desenvolvimento de Sistemas.
 
