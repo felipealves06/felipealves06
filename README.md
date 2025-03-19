@@ -11,22 +11,8 @@ Tenho experiência consolidada em rotinas financeiras e administrativas, combina
 </p>
 <p align="left">
 
-🎨 **DESIGN PARA IMPRESSOS**  
 
-Criação de identidades visuais, materiais gráficos (cartões, flyers, panfletos) 
-
-  💼 **Ferramentas** :
-  
-
-[![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)](https://www.adobe.com/products/illustrator.html)
-[![Corel Draw](https://img.shields.io/badge/Corel_Draw-CC362F?style=for-the-badge&logo=coreldraw&logoColor=white)](https://www.coreldraw.com/)
-
-<p align="left">
-
-🧑‍💻 **ROGRAMAÇÃO FRONT-END** :
-
-
- 🦄 **Linguagens** :
+  🦄 **Linguagens** :
 
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
