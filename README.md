@@ -17,9 +17,9 @@ Criação de identidades visuais, materiais gráficos (cartões, flyers, panflet
 
   💼 **Ferramentas** :
   
-  !
+
 [![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)](https://www.adobe.com/products/illustrator.html)
-  !
+
 [![Corel Draw](https://img.shields.io/badge/Corel_Draw-CC362F?style=for-the-badge&logo=coreldraw&logoColor=white)](https://www.coreldraw.com/)
 
 <p align="left">
