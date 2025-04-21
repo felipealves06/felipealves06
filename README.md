@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="350px" max-width="350px" width="350px" align="right">
+
 <p align="left"> 
 
 # Olá, sou o Felipe Alves!👋🏽
@@ -8,8 +10,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-alves-393ba733a/)
 
 Tenho experiência consolidada em rotinas financeiras e administrativas, combinada com visão criativa para soluções visuais. Domino ferramentas como **Adobe Illustrator** e **Corel Draw** para criação de identidades visuais e materiais gráficos.
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="350px" max-width="350px" width="350px" align="right">
 
 **Certificações** em Empreendedorismo (SEBRAE), Gestão de Negócios, Marketing digital e Pacote Office. Atualmente imerso em programação front-end (HTML5, CSS3, JavaScript) com foco em UI/UX, buscando especialização através do curso de Análise e Desenvolvimento de Sistemas.
 
