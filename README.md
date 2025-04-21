@@ -10,9 +10,9 @@ Tenho experiência consolidada em rotinas financeiras e administrativas, combina
 
 </p>
 
+<details>
 <p align="left">
 
-<details>
   🦄 **Linguagens** :
 
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
