@@ -32,10 +32,12 @@ Tenho experiência consolidada em rotinas financeiras e administrativas, combina
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 </details>
 
-  💻 **PROJETOS** :
+<details>
+<summary> 💻 Projetos </summary>
 
 • [Loginflow](https://github.com/felipealves06/loginflow)
 
+</details>
 </p>
 
 <p align="left">
