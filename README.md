@@ -4,8 +4,6 @@
 
 # Olá, sou o Felipe Alves!👋🏽
 
-🧠*Pensando fora da caixa, codificando dentro dela.*
-
 [![x](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Felipealvesofc)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-alves-393ba733a/)
 
