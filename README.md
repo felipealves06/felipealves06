@@ -45,13 +45,6 @@ Tenho experiência consolidada em rotinas financeiras e administrativas, combina
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=felipealves06&layout=compact&theme=dark)
 
-<p align="left">
-  💌 Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação: ⤵️
-</p>
-
-[![x](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Felipealvesofc)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-alves-393ba733a/)
-
 <!---
 felipealves06/felipealves06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
