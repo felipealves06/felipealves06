@@ -7,6 +7,8 @@
 [![x](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Felipealvesofc)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-alves-393ba733a/)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipealves06&layout=compact)
+
 Tenho experiência consolidada em rotinas financeiras e administrativas, combinada com visão criativa para soluções visuais. Domino ferramentas como **Adobe Illustrator** e **Corel Draw** para criação de identidades visuais e materiais gráficos.
 
 **Certificações** em Empreendedorismo (SEBRAE), Gestão de Negócios, Marketing digital e Pacote Office. Atualmente imerso em programação front-end (HTML5, CSS3, JavaScript) com foco em UI/UX, buscando especialização através do curso de Análise e Desenvolvimento de Sistemas.
