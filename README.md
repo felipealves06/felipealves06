@@ -44,6 +44,7 @@ Tenho experiência consolidada em rotinas financeiras e administrativas, combina
   💌 Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação: ⤵️
 </p>
 
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://www.x.com/fellipealvesofc)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-alves-393ba733a/)
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=felipealves06&layout=compact&theme=dark)
