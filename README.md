@@ -11,6 +11,7 @@ Tenho experiência consolidada em rotinas financeiras e administrativas, combina
 </p>
 
 <details>
+<summary> 🦄 Linguagens </summary>
 <p align="left">
 
   🦄 **Linguagens** :
