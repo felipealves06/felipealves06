@@ -9,6 +9,7 @@
 Tenho experiência consolidada em rotinas financeiras e administrativas, combinada com visão criativa para soluções visuais. Amplo conhecimento no mercado financeiro, Valuetion e Análise fundamentalista.Domino ferramentas como **Adobe Illustrator** e **Corel Draw** para criação de identidades visuais e materiais gráficos.
 
 **Certificações**
+<p align="left">
 •Empreendedorismo (SEBRAE)
 •Marketing e marketing digital (SEBRAE)
 
