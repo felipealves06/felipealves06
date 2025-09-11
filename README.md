@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-alves-393ba733a/)
 
-Tenho experiência consolidada em rotinas financeiras e administrativas, combinada com visão criativa para soluções visuais. Amplo conhecimento no mercado financeiro, Valuetion e Análise fundamentalista.Domino ferramentas como **Adobe Illustrator** e **Corel Draw** para criação de identidades visuais e materiais gráficos.
+Tenho experiência consolidada em rotinas financeiras e administrativas, combinada com visão criativa para soluções visuais. Amplo conhecimento no **mercado financeiro**, **Valuetion e Análise fundamentalista**.Domino ferramentas como **Adobe Illustrator** e **Corel Draw** para criação de identidades visuais e materiais gráficos.
 
 **Certificações**
 <p align="left">
