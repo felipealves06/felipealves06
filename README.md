@@ -12,7 +12,7 @@ Tenho experiência consolidada em rotinas financeiras e administrativas, combina
 <p align="left">
 •Empreendedorismo (SEBRAE)
 •Marketing e marketing digital (SEBRAE)
-•introdução a cibersegurança (CISCO) 
+•Introduction to Cybersecurity Course (Cisco Network Academy)
 
 
 <!---
